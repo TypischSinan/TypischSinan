@@ -2,7 +2,9 @@
 
 ## About Me
 👨‍💻 Developer
+
 🌐 Focused on creating impactful and innovative software 
+
 🤝 Open for collaboration and exciting projects
 
 ## Connect with Me
