@@ -24,6 +24,27 @@
 
 ---
 
+## 🌍 My Projects
+
+### 🏋️ Calisthenics Hub
+A global platform for calisthenics athletes to discover outdoor training spots, explore bodyweight exercises, and create personalized training plans. Built to support the street workout community and make training accessible anywhere.
+
+🔗 https://www.calisthenics-hub.com/
+
+
+### 🚴 Bike Pump
+A smart platform focused on cycling tools and solutions, designed to improve everyday biking experiences through practical and innovative features.
+
+🔗 https://www.bike-pump.com/en
+
+
+### ⚡ Bike Charging
+A concept platform around e-bike charging and sustainable mobility solutions, aiming to make electric cycling infrastructure more accessible and efficient.
+
+🔗 https://www.bike-charging.com/en
+
+---
+
 <h2 align="center">🚀 Tech Stack</h2>
 
 <h3 align="center">💻 Languages</h3>
